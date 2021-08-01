@@ -140,4 +140,4 @@ function gameloop(){                    //gameloop
     update();
 }
 
-f=setInterval(gameloop,200);            // for the pace to update 
+f=setInterval(gameloop,120);            // for the pace to update 
