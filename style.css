@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(52, 54, 53);
+}
+#mycanvas{
+    background-color: rgb(209, 190, 23);
+    /* background-image: url("snake.jpeg"); */
+    border: 18px solid rgb(125, 112, 0);
+    margin-left: 18%;
+}
