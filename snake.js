@@ -11,10 +11,10 @@ function init(){
     score= 10;                                      
     
     food_img=new Image();                               //for food
-    food_img.src = "frog.png";                          //image
+    food_img.src = "images/frog.png";                          //image
 
     bowl= new Image();                                  //for trophy
-    bowl.src = "bowl.png";                              // image
+    bowl.src = "images/bowl.png";                              // image
 
     food = getRandFood();                               //getting random coordinates of food
 
